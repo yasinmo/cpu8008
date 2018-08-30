@@ -1,5 +1,5 @@
 # cpu8008
-Intel 8008 Emulator, written in C++ and Qt
+Intel 8008 Emulator, written in C++ and Qt5
 
 Maps Video Memory to 0x2000
 
